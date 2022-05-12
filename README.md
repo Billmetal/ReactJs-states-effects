@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Trabalhando com States & Effects no ReactJs
+
+Módulo do curso de ReactJs com Redux pela Digital Innovation One
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
